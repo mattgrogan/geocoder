@@ -1,0 +1,26 @@
+{
+    "London, England": {
+        "city": "London, England",
+        "formatted_address": "London, UK",
+        "latitude": 51.5073509,
+        "longitude": -0.1277583
+    },
+    "New York, NY": {
+        "city": "New York, NY",
+        "formatted_address": "New York, NY, USA",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413
+    },
+    "Singapore": {
+        "city": "Singapore",
+        "formatted_address": "Singapore",
+        "latitude": 1.352083,
+        "longitude": 103.819836
+    },
+    "Tokyo, Japan": {
+        "city": "Tokyo, Japan",
+        "formatted_address": "Tokyo, Japan",
+        "latitude": 35.6894875,
+        "longitude": 139.6917064
+    }
+}
